@@ -1,0 +1,7 @@
+Tempest,Mighty,3,2
+L5,GG,3,0
+MVP Black,MVP Miracle,3,1
+Team Dignitas,Fnatic,2,3
+Synergy,Playing Ducks,1,3
+Tempo Storm,Game Force eSports,0,3
+Team Freedom,No Tomorrow,1,3

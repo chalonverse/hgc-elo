@@ -1,0 +1,7 @@
+Tempest,MVP Miracle,3,1
+MVP Black,Team BlossoM,3,0
+GG,Raven,3,0
+Team Dignitas,Playing Ducks,3,1
+Misfits,beGenius,3,0
+Tempo Storm,No Tomorrow,3,0
+Team Naventic,Superstars,0,3

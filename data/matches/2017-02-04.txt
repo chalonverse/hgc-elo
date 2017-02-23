@@ -1,0 +1,7 @@
+MVP Black,Raven,3,0
+Tempest,GG,3,0
+L5,Mighty,3,0
+Synergy,Misfits,0,3
+Team Dignitas,Team expert,3,1
+Team Freedom,Team Naventic,3,1
+Tempo Storm,Team 8,3,2
