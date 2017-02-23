@@ -1,0 +1,24 @@
+beGenius,EU
+B-Step,NA
+Fnatic,EU
+Gale Force eSports,NA
+GG,KR
+L5,KR
+Mighty,KR
+Misfits,EU
+MVP Black,KR
+MVP Miracle,KR
+No Tomorrow,NA
+Playing Ducks,EU
+Raven,KR
+Superstars,NA
+Synergy,EU
+Team 8,NA
+Team BlossoM,KR
+Team Dignitas,EU
+Team expert,EU
+Team Freedom,NA
+Team Naventic,NA
+Tempest,KR
+Tempo Storm,NA
+Tricked esport,EU

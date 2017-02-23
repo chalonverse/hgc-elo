@@ -1,0 +1,4 @@
+Team Dignitas,Misfits,0,3
+Team expert,Playing Ducks,3,0
+Tempo Storm,Team Naventic,3,2
+Team 8,No Tomorrow,3,0
